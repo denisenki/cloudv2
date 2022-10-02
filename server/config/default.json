@@ -1,0 +1,4 @@
+{
+    "serverPort": 5000,
+    "urlMongo": "mongodb+srv://denisenki:Denisenko000111@cluster0.tfn32.mongodb.net/myFirstDatabase?retryWrites=true&w=majority"
+}

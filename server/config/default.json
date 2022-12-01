@@ -1,4 +1,5 @@
 {
-    "serverPort": 5000,
-    "urlMongo": "mongodb+srv://denisenki:Denisenko000111@cluster0.tfn32.mongodb.net/myFirstDatabase?retryWrites=true&w=majority"
+    "serverPort": 8000,
+    "urlMongo": "mongodb+srv://denisenki:y72JB97f1xFLHCIL@cluster0.ncnfqr6.mongodb.net/?retryWrites=true&w=majority",
+    "secretKey":"cloud2022"
 }

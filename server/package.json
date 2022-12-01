@@ -13,9 +13,13 @@
     "bcryptjs": "^2.4.3",
     "config": "^3.3.7",
     "config-js": "^1.1.15",
+    "cors": "^2.8.5",
     "express": "^4.17.3",
     "express-validator": "^6.14.0",
-    "mongoose": "^6.2.10"
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^6.2.10",
+    "mysql2": "^2.3.3",
+    "sequelize": "^6.24.0"
   },
   "devDependencies": {
     "nodemon": "^2.0.15"
